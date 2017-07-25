@@ -15,6 +15,14 @@
    <description>Infinispan Data Grid</description>
    <packaging>pom</packaging>
 
+   <licenses>
+      <license>
+         <name>Apache License 2.0</name>
+         <url>http://repository.jboss.org/licenses/apache-2.0.txt</url>
+         <distribution>repo</distribution>
+      </license>
+   </licenses>
+
    <modules>
       <module>license</module>
       <module>bom</module>
